@@ -1,4 +1,4 @@
-package com.hzh.kotlin.L01
+package com.hzh.kotlin.L02
 
 
 fun testIfMax(a: Int, b: Int): Int {

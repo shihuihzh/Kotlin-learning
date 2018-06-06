@@ -1,4 +1,4 @@
-package com.hzh.kotlin.L01
+package com.hzh.kotlin.L02
 
 open class Base constructor(name: String) {
     open val firstName = name.toUpperCase()
